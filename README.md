@@ -1,0 +1,1 @@
+Disclaimer : to see the NLP chatbot in full action it is better to write a sentence such as : I have very dry skin, or i have oily skin and then the second time proceed to quit in order to see the naive beyes and the decision tree working. 

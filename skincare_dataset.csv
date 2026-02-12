@@ -1,0 +1,192 @@
+query,category,subcategory
+My face is breaking out with red bumps,acne,inflammatory_acne
+I have blackheads on my nose,acne,comedonal_acne
+What can I use for pimples on my forehead,acne,treatment
+How do I get rid of acne scars,acne,post_acne
+My skin is very oily by midday,oily_skin,general
+Best products for oily acne-prone skin,oily_skin,product_recommendation
+My T-zone is so shiny,oily_skin,general
+How to control oil production,oily_skin,treatment
+My face feels tight and flaky,dry_skin,general
+I have dry patches around my mouth,dry_skin,general
+Best moisturizer for very dry skin,dry_skin,product_recommendation
+My skin is peeling after using retinol,dry_skin,irritation
+What causes dry skin in winter,dry_skin,causes
+I have an oily T-zone but dry cheeks,combination_skin,general
+How to care for combination skin,combination_skin,routine
+Products for combination skin type,combination_skin,product_recommendation
+My skin gets red easily,sensitive_skin,general
+I react to most skincare products,sensitive_skin,allergic_reaction
+Burning sensation after applying cream,sensitive_skin,irritation
+Best gentle cleanser for sensitive skin,sensitive_skin,product_recommendation
+Fragrance-free products for reactive skin,sensitive_skin,product_recommendation
+My skin stings when I use products,sensitive_skin,irritation
+I have itchy red patches on my arms,eczema,symptoms
+Eczema flare-up on hands,eczema,flare_up
+Best cream for atopic dermatitis,eczema,treatment
+My eczema gets worse in winter,eczema,triggers
+How to prevent eczema flare-ups,eczema,prevention
+I have thick scaly patches on my elbows,psoriasis,symptoms
+Red patches covered with silvery scales,psoriasis,symptoms
+Psoriasis treatment options,psoriasis,treatment
+My psoriasis is getting worse,psoriasis,flare_up
+Brown spots on my face,hyperpigmentation,melasma
+Dark spots after acne,hyperpigmentation,post_inflammatory
+Sun damage and age spots,hyperpigmentation,sun_damage
+How to fade dark spots,hyperpigmentation,treatment
+Uneven skin tone on face,hyperpigmentation,general
+Best products for pigmentation,hyperpigmentation,product_recommendation
+Vitamin C for dark spots,hyperpigmentation,ingredients
+My skin is starting to wrinkle,aging,wrinkles
+Fine lines around my eyes,aging,wrinkles
+Sagging skin on jawline,aging,sagging
+How to prevent premature aging,aging,prevention
+Best anti-aging ingredients,aging,ingredients
+Retinol for wrinkles,aging,treatment
+My skin looks dull and tired,aging,dullness
+Loss of firmness in skin,aging,sagging
+I got sunburned at the beach,sun_damage,sunburn
+Dark spots from sun exposure,sun_damage,hyperpigmentation
+How to protect skin from sun,sun_damage,prevention
+Best sunscreen for daily use,sun_damage,product_recommendation
+SPF 30 or SPF 50,sun_damage,product_recommendation
+Sunscreen for acne-prone skin,sun_damage,product_recommendation
+My skin burns easily in the sun,sun_damage,general
+I have enlarged pores on my nose,pores,enlarged_pores
+How to minimize pore appearance,pores,treatment
+Clogged pores on chin,pores,clogged_pores
+Best products to shrink pores,pores,product_recommendation
+What is rosacea,rosacea,general
+My cheeks are always red and flushed,rosacea,symptoms
+Burning sensation on face,rosacea,symptoms
+Bumps and pimples with redness,rosacea,papulopustular
+Rosacea triggers and causes,rosacea,triggers
+Treatment for redness on face,rosacea,treatment
+Small red veins on my cheeks,rosacea,telangiectasia
+What causes under eye bags,eye_concerns,bags
+Dark circles under my eyes,eye_concerns,dark_circles
+Puffiness around eyes in morning,eye_concerns,puffiness
+Best eye cream for wrinkles,eye_concerns,product_recommendation
+Crow's feet treatment,eye_concerns,wrinkles
+My lips are always chapped,lip_care,chapped_lips
+Best lip balm for dry lips,lip_care,product_recommendation
+Dark lips how to lighten,lip_care,hyperpigmentation
+What is hyaluronic acid,ingredients,humectant
+Benefits of niacinamide,ingredients,general
+Can I use vitamin C with retinol,ingredients,combination
+What does salicylic acid do,ingredients,exfoliant
+Difference between AHA and BHA,ingredients,exfoliant
+Is retinol safe during pregnancy,ingredients,safety
+What is ceramides good for,ingredients,barrier_repair
+Benefits of glycolic acid,ingredients,exfoliant
+Should I use toner,routine,steps
+Morning skincare routine order,routine,morning
+Night skincare routine steps,routine,evening
+How often to exfoliate,routine,frequency
+When to apply serums,routine,steps
+Cleanser before or after makeup,routine,order
+Double cleansing method,routine,cleansing
+How to layer skincare products,routine,application
+Can I skip moisturizer if I have oily skin,routine,oily_skin
+Do I need sunscreen indoors,routine,sunscreen
+Best cleanser for acne,product_recommendation,acne
+Moisturizer for dry sensitive skin,product_recommendation,dry_skin
+Affordable retinol products,product_recommendation,anti_aging
+Korean skincare for beginners,product_recommendation,general
+Natural products for eczema,product_recommendation,eczema
+Drugstore vs high-end skincare,product_recommendation,general
+Cruelty-free skincare brands,product_recommendation,general
+Non-comedogenic moisturizer,product_recommendation,acne
+Pregnancy-safe skincare products,product_recommendation,safety
+My skin purged after starting new product,side_effects,purging
+Red rash after using new cream,side_effects,allergic_reaction
+Skin peeling from exfoliation,side_effects,over_exfoliation
+Breakout from new moisturizer,side_effects,breakout
+How long does skin purging last,side_effects,purging
+Irritation from retinol,side_effects,retinol_irritation
+What foods cause acne,lifestyle,diet
+Does drinking water improve skin,lifestyle,hydration
+Exercise and skin health,lifestyle,exercise
+Stress causing breakouts,lifestyle,stress
+Sleep and skin connection,lifestyle,sleep
+Smoking effects on skin,lifestyle,smoking
+How does pollution affect skin,environmental,pollution
+Skin care in humid climate,environmental,humidity
+Winter skin care tips,environmental,weather
+Hard water and skin problems,environmental,water_quality
+I have a mole that changed color,medical_concern,moles
+Sudden rash all over body,medical_concern,rash
+Painful cyst on face,medical_concern,cysts
+Skin infection symptoms,medical_concern,infection
+When to see a dermatologist,medical_concern,general
+Suspicious spot on skin,medical_concern,skin_cancer
+Severe itching all over,medical_concern,general
+Warts on hands,medical_concern,warts
+Fungal infection on skin,medical_concern,fungal
+Cold sore on lip,medical_concern,viral
+Teenage acne solutions,age_specific,teen
+Skincare for women over 50,age_specific,mature
+Baby eczema treatment,age_specific,baby
+Toddler dry skin,age_specific,toddler
+Men's skincare routine,age_specific,men
+Preteen skincare basics,age_specific,preteen
+Hormonal acne in 30s,hormonal,acne
+Skin changes during menopause,hormonal,menopause
+Pregnancy skin changes,hormonal,pregnancy
+Period breakouts,hormonal,menstrual
+How to fade acne scars naturally,home_remedies,acne_scars
+Aloe vera for sunburn,home_remedies,sunburn
+Honey mask for acne,home_remedies,acne
+Oatmeal for eczema,home_remedies,eczema
+Green tea for skin,home_remedies,antioxidants
+Coconut oil for dry skin,home_remedies,moisturizing
+DIY face mask recipes,home_remedies,masks
+Can makeup cause acne,makeup,acne
+Best foundation for dry skin,makeup,dry_skin
+How to remove makeup properly,makeup,removal
+Makeup for sensitive skin,makeup,sensitive_skin
+Primer for large pores,makeup,pores
+Setting spray for oily skin,makeup,oily_skin
+Difference between dermatologist and esthetician,professional_care,general
+What is a chemical peel,professional_care,treatments
+Microneedling benefits,professional_care,treatments
+Laser treatment for acne scars,professional_care,treatments
+Professional facial frequency,professional_care,facials
+Botox vs fillers,professional_care,injectables
+What is dermaplaning,professional_care,treatments
+Extraction facial for blackheads,professional_care,facials
+Body acne on back,body_skin,bacne
+Keratosis pilaris on arms,body_skin,kp
+Dry skin on legs,body_skin,dry_skin
+Dark underarms treatment,body_skin,hyperpigmentation
+Rough elbows and knees,body_skin,rough_texture
+Stretch marks removal,body_skin,stretch_marks
+Ingrown hairs after shaving,body_skin,ingrown_hairs
+Body lotion for very dry skin,body_skin,product_recommendation
+Cellulite reduction,body_skin,cellulite
+Excessive sweating,body_skin,hyperhidrosis
+How much to spend on skincare,budget,general
+Affordable skincare routine,budget,routine
+Are expensive products worth it,budget,value
+Budget-friendly acne treatment,budget,acne
+Cheap vs expensive moisturizer,budget,comparison
+Best drugstore serums,budget,serums
+My skin is getting worse,troubleshooting,worsening
+Products not working anymore,troubleshooting,product_efficacy
+Sudden skin changes,troubleshooting,changes
+Why is my routine not working,troubleshooting,routine
+Breakout from switching products,troubleshooting,breakout
+Skin became sensitive suddenly,troubleshooting,sensitivity
+Texture of my skin changed,texture,rough_texture
+Bumpy forehead,texture,rough_texture
+Smooth skin tips,texture,general
+Orange peel texture on face,texture,large_pores
+Skin feels rough,texture,rough_texture
+How to get glowing skin,general,radiance
+Dewy skin look,general,radiance
+Matte skin appearance,general,matte
+Glass skin routine,general,radiance
+Skin barrier repair,general,barrier
+How to know my skin type,general,skin_type
+Skin cycling method,general,routine
+Minimalist skincare routine,general,routine
